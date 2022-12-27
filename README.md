@@ -3,4 +3,4 @@ This repository contains the learning that I will get in React during the course
 
 
 ## Week-1: 
-1. Inception - Namaste React
+1. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Inception">Inception - Namaste React</a>
