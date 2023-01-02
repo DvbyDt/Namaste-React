@@ -50,7 +50,7 @@ erros in the development.js than in production.js. As production.js is minified 
 user will get better performance.
 
 **What is async and defer?**
-Async and defer are basically boolean attributes which are used to effectively fetch the external script. Usually it has 3 cases:<br/>
+Async and defer are basically boolean attributes which are used to efficiently load the external script into our webpage. Usually it has 3 cases:<br/>
 1. Without async and defer: So, in this what happens is when HTML parsing is done and it encounters the script tag so, the parsing is stopped and the script files
 are fetched and executed only then the parsing resumes. This results in incomplete DOM and sometimes the webpage also loads slower.
 2. With async: Here whenever parsing is done and as soon as it encounters the script tag it is fetched asynchronously and as soon as it is fetched it is executed.
