@@ -59,3 +59,7 @@ So, the parsing waits till it's executed and is resumed after that. This is usef
 and executed once the parsing is completed i.e. the DOM is completely loaded. So, this is useful if you have interdependent script tags.
 
 
+Output of the code files:
+![image](https://user-images.githubusercontent.com/68496657/210261394-c1eac22e-80af-4011-a3f7-29d0995517e1.png)
+
+
