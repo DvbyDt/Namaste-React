@@ -40,3 +40,22 @@ Here the creator of react says that: ![image](https://user-images.githubusercont
 Sometimes the request needs to fetch some details from a server from another domain.So, it's basically doing a CORS request i.e. **Cross Origin Resource Sharing**.
 So, this request will basically fetch details from a server at different domain compared to the client's.So, it's basically up to us to allow CORS i.e. allow the website
 to load the web pages from another domain.
+
+**What is diference between React and ReactDOM**
+React library is used to create views whereas ReactDOM is used to render the UI in the browser and also to interact with the DOM.
+
+**What is difference between react.development.js and react.production.js files via CDN?** 
+The files present in react.production.js are minified files i.e they are small in size in comparison to the files in react.development.js.So, it's much easier to catch 
+erros in the development.js than in production.js. As production.js is minified it will throw complex error messages which will be hard to debug. But as it is minified
+user will get better performance.
+
+**What is async and defer?**
+Async and defer are basically boolean attributes which are used to effectively fetch the external script. Usually it has 3 cases:<br/>
+1. Without async and defer: So, in this what happens is when HTML parsing is done and it encounters the script tag so, the parsing is stopped and the script files
+are fetched and executed only then the parsing resumes. This results in incomplete DOM and sometimes the webpage also loads slower.
+2. With async: Here whenever parsing is done and as soon as it encounters the script tag it is fetched asynchronously and as soon as it is fetched it is executed.
+So, the parsing waits till it's executed and is resumed after that. This is useful for fetching googleAPi etc.
+3. With defer: This is by far the safest option here what happens is the HTML parsing is done parallely and when the script tag is encountered, it is fetched parallely 
+and executed once the parsing is completed i.e. the DOM is completely loaded. So, this is useful if you have interdependent script tags.
+
+
