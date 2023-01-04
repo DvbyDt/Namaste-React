@@ -1,0 +1,9 @@
+# All the node Modules
+node_modules/
+
+# The parcel cache is also not pushed onto git
+.parcel-cache
+
+# Similarly the dist folder also which is created at the time of build should not be pushed on git
+dist/
+
