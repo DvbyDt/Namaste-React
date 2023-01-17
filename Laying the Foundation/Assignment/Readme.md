@@ -16,6 +16,6 @@
    3. type = "importmap" indicates that the body of element contains an import map. It is a JSON object which specifies to the browser how to resolve these modules when importing them.
 
 
-### {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>}
+### `{TitleComponent}` vs `{<TitleComponent />}` vs `{<TitleComponent></TitleComponent>}`
 - {TitleComponent}: It is a react element. It is basically an object in JS.
 - {<TitleComponent/>} vs {<TitleComponent></TitleComponent>}: Both of them are React functional components which are basically javaScript functions. One is self closing and another has the closing tag with it.  
