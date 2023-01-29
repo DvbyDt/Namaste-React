@@ -1,0 +1,52 @@
+body {
+    font-family: "Century Gothic", 'Lato', sans-serif;
+}
+
+.header{
+/* border: 1px solid #000; */
+justify-content: space-between;
+display: flex;
+align-items: center;
+}
+
+.nav-items{
+width: 50%;
+}
+
+.nav-items > ul{
+display: flex;
+list-style-type: none;
+justify-content: space-around;
+}
+
+.nav-items > ul > li{
+padding: 10px;
+letter-spacing: 0.1rem;
+}
+
+.logo{
+width: 120px;
+}
+
+.restaurantList{
+margin-top:30px;
+display: flex;
+justify-content: space-between;
+}
+
+.restaurantCard{
+width: 200px;
+padding: 20px;
+border: 1px solid #ccc;
+background: #fff;
+contain: content;
+transition: box-shadow .3s;
+}
+
+.restaurantCard:hover {
+box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.restaurantCard> img{
+width: 200px;
+}
