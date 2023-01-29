@@ -17,5 +17,5 @@
 
 
 ### `{TitleComponent}` vs `{<TitleComponent />}` vs `{<TitleComponent></TitleComponent>}`
-- {TitleComponent}: It is a react element. It is basically an object in JS.
-- {<TitleComponent/>} vs {<TitleComponent></TitleComponent>}: Both of them are React functional components which are basically javaScript functions. One is self closing and another has the closing tag with it.  
+- `{TitleComponent}`: It is a react element. It is basically an object in JS.
+- `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}`: Both of them are React functional components which are basically javaScript functions. One is self closing and another has the closing tag with it.  
