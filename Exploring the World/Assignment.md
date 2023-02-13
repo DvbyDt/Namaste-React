@@ -1,1 +1,1 @@
-# CHapter 05- Exploring the World
+# Chapter 06- Exploring the World
