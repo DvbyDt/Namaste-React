@@ -16,7 +16,7 @@ This repository contains the learning that I will get in React during the course
 - For coding assignment the site deployed for Chapter04: https://khanakhazanapart-01.netlify.app/
 
 2. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Let's%20Get%20Hooked">Let's Get Hooked</a>
-- <a href="https://github.com/DvbyDt/Namaste-React/blob/Let's-get-Hooked/Let's%20Get%20Hooked/Assignment.md">Theory Assignment</a> 
+- <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Let's%20Get%20Hooked/Assignment.md">Theory Assignment</a> 
 - For coding assignment the site deployed for Chapter05: https://khanakhazanapart-02.netlify.app/
 
 ## Week -4:
