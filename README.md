@@ -24,3 +24,7 @@ This repository contains the learning that I will get in React during the course
 - <a href="https://github.com/DvbyDt/Namaste-React/blob/Exploring-the-World/Exploring%20the%20World/Assignment.md">Theory Assignment</a> 
 - For coding assignment the site deployed for Chapter06: https://khanakhazanapart-03.netlify.app/
 
+2. <a href="https://github.com/DvbyDt/Namaste-React/tree/Finding-the-Path/Finding%20the%20Path">Finding the Path</a>
+- <a href="https://github.com/DvbyDt/Namaste-React/tree/Finding-the-Path/Finding%20the%20Path/Assignment.md">Theory Assignment</a> 
+- For coding assignment the site deployed for Chapter07: https://khanakhazana-part-04.netlify.app/
+
