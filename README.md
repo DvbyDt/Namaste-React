@@ -27,3 +27,9 @@ This repository contains the learning that I will get in React during the course
 2. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Finding%20the%20Path">Finding the Path</a>
 - <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Finding%20the%20Path/Assignment.md">Theory Assignment</a> 
 - For coding assignment the site deployed for Chapter07: https://khanakhazana-part-04.netlify.app/
+
+
+## Week-5:
+1. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Let's%20Get%20Classy">Let's Get Classy</a>
+- <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Let's%20Get%20Classy/Assignment.md">Theory Assignment</a>
+- For coding assignment for Chapter08 - https://khanakhazana-part05.netlify.app/
