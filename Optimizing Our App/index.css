@@ -1,0 +1,131 @@
+*{
+    text-decoration: none;
+}
+
+body {
+    font-family: "Century Gothic", 'Lato', sans-serif;
+}
+
+.header{
+/* border: 1px solid #000; */
+justify-content: space-between;
+display: flex;
+align-items: center;
+}
+
+.nav-items{
+width: 50%;
+}
+
+.nav-items > ul{
+display: flex;
+list-style-type: none;
+justify-content: space-around;
+}
+
+.nav-items > ul > li{
+padding: 10px;
+letter-spacing: 0.1rem;
+}
+
+.logo{
+width: 120px;
+}
+
+.search-Container{
+    margin: 5% 42%;
+}
+
+.restaurantList{
+margin-top:30px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+.restaurantCard,.ShimmerCard{
+width: 200px;
+padding: 20px;
+border: 1px solid #ccc;
+background: #fff;
+contain: content;
+transition: box-shadow .3s;
+margin: 20px;
+height: 350px;
+}
+
+.restaurantCard:hover {
+box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.restaurantCard> img{
+width: 200px;
+}
+
+/* .ShimmerList{
+    margin-top:40px ;
+} */
+
+/* .ShimmerCard{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+} */
+
+.ShimmerName{
+    width: 100px;
+    background-color: #ededed;    
+    /* margin: 20px; border: 2px solid black;*/
+    height: 20px;
+}
+
+.ShimmerCuisines{
+    width: 150px;
+    background-color: #ededed;    
+    /* margin: 20px; border: 2px solid black;*/
+    height: 10px;
+}
+
+.ShimmerTime{
+    width: 50px;
+    background-color: #ededed;    
+    /* margin: 20px; border: 2px solid black;*/
+    height: 5px;
+}
+
+.ShimmerImage{
+    width: 200px;
+    background-color: #ededed;  
+    height: 150px;
+}
+
+.resturant-topBanner{
+    display: flex;
+    padding: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f1f1f1;
+}
+
+.resturant-topBanner>img{
+    height:250px;
+}
+
+.resturant-basicInfo{
+    display: flex;
+    flex-direction: column;
+    line-height: 0.2;
+}
+
+.resturant-offers{
+    border:2px solid black;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+.restaurant-Menu{
+    margin-left: 40%;
+    list-style:none;
+    line-height: 2;
+}
