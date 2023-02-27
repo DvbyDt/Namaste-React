@@ -33,3 +33,7 @@ This repository contains the learning that I will get in React during the course
 1. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Let's%20Get%20Classy">Let's Get Classy</a>
 - <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Let's%20Get%20Classy/Assignment.md">Theory Assignment</a>
 - For coding assignment for Chapter08 - https://khanakhazana-part05.netlify.app/
+
+2. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Optimizing%20Our%20App"> Optimizing Our App </a>
+- <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Optimizing%20Our%20App/Assignment.md">Theory Assignment</a>
+- For coding assignment for Chapter 09 - https://khanakhazana-part-06.netlify.app/
