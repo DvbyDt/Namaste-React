@@ -37,3 +37,9 @@ This repository contains the learning that I will get in React during the course
 2. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Optimizing%20Our%20App"> Optimizing Our App </a>
 - <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Optimizing%20Our%20App/Assignment.md">Theory Assignment</a>
 - For coding assignment for Chapter 09 - https://khanakhazana-part-06.netlify.app/
+
+
+## Week-6:
+1. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Jo%20Dikhta%20hai%20voh%20Bikta%20Hai">Jo Dikhta hai voh Bikta Hai</a>
+- <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Jo%20Dikhta%20hai%20voh%20Bikta%20Hai/Assignment.md">Theory Assignment</a>
+- For coding assignment for Chapter10 - https://khanakhazana-part-07.netlify.app/
