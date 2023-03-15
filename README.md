@@ -43,3 +43,7 @@ This repository contains the learning that I will get in React during the course
 1. <a href="https://github.com/DvbyDt/Namaste-React/tree/main/Jo%20Dikhta%20hai%20voh%20Bikta%20Hai">Jo Dikhta hai voh Bikta Hai</a>
 - <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Jo%20Dikhta%20hai%20voh%20Bikta%20Hai/Assignment.md">Theory Assignment</a>
 - For coding assignment for Chapter10 - https://khanakhazana-part-07.netlify.app/
+
+2.<a href="https://github.com/DvbyDt/Namaste-React/tree/main/Data%20is%20the%20new%20Oil">Data is the new Oil</a>
+- <a href="https://github.com/DvbyDt/Namaste-React/blob/main/Data%20is%20the%20new%20Oil/Assignment.md">Theory Assignment</a>
+- For coding assignment for Chapter11 - https://khanakhazana-part-08.netlify.app/
